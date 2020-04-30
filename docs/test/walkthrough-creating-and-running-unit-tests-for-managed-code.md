@@ -62,7 +62,7 @@ ms.locfileid: "75590713"
 
 ::: moniker-end
 
-5. Замените содержимое файла *Program.cs* следующими кодом на C#, который определяет класс *BankAccount*:
+5. Замените содержимое файла *Program.cs* следующим кодом на C#, который определяет класс *BankAccount*:
 
    ```csharp
    using System;
